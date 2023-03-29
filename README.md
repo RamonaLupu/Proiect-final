@@ -5,11 +5,25 @@ In calitate de client al agentiei de turism Karpaten vom incerca:
 
 1. Ne logam desi nu avem cont - nu ne va lasa, va da eroarea "Date de autentificare invalide."
 
-2. Ne vom face cont dar lasam campul pentru nume gol - va da eroarea "Va rog introduceti numele dvs."
+2. Incercam sa ne logam cu contul de google - gresim mailul, va da mesajul "Contul Google nu a fost găsit"
 
-3. Ne vom inregistra cu succes
+3. Incercam sa ne logam cu contul de google - de data aceasta cu un mail valid
 
-4. Vom cauta oferte de vacanta in Turcia cu plecare de pe 2 aeroporturi si verificam daca avem macar 5 oferte pentru fiecare.
+4. Ne vom face cont dar lasam campul pentru nume gol - va da eroarea "Va rog introduceti numele dvs."
+
+5. Ne vom inregistra cu succes
+
+6. Vom cauta oferte de vacanta in Turcia cu plecare de pe 2 aeroporturi si verificam daca avem macar 5 oferte pentru fiecare.
+
+7. Verificam daca logo-ul este vizibil.
+
+8. Navigam catre pagina de Last minute si apasam pe logo - ne va duce catre pagina de start.
+
+9. Navigam catre pagina cu Blog si apasam pe butonul Inapoi la site - ne va duce catre pagina Home.
+
+10. Verificam daca pretul pentru o vacanta la hotelul Kleopatra nu depaseste 600 euro.
+
+11. Verificam calificativul dat de turisti hotelului Kleopatra.
 
 # Set - up
 
@@ -50,7 +64,6 @@ In urma rularii fisierelor, in terminal ne va aparea daca testele au fost passed
 Dar se va genera si un fisier cu raportul in format HTML care poate fi deschis cu ce browser dorim.
 
 ![image](https://user-images.githubusercontent.com/119336026/226827646-dd2a5875-896f-4b3d-89a8-5aa17a6d3f63.png)
-
 
 
 
